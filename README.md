@@ -50,3 +50,5 @@ sudo systemctl status mongod
 sudo systemctl start mongod
 sudo systemctl enable mongod
 ```
+
+![MongoDB server status](https://github.com/AdewuyiAdebusuyi-Sparta/MongoDB-Provision/blob/main/MongoDB-run.png)
