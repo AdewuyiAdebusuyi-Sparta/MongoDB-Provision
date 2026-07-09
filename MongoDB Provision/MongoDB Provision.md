@@ -1,3 +1,4 @@
+
 # MongoDB Provision(Ubuntu 24.04)
 Tells Linux that it's running a bash script
 `#! /bin/bash`
@@ -50,5 +51,4 @@ sudo systemctl status mongod
 sudo systemctl start mongod
 sudo systemctl enable mongod
 ```
-
-![MongoDB server status](https://github.com/AdewuyiAdebusuyi-Sparta/MongoDB-Provision/blob/main/MongoDB-run.png)
+![MongoDB server status](../Images/MongoDB-run.png)
